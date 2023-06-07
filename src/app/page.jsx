@@ -3,5 +3,5 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return <div className={styles.container}>Home</div>;
-  // 37:05
+  // 40:29 Next.js Image
 }
