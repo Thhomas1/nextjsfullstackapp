@@ -13,7 +13,7 @@ export default function Home() {
          Convertimos tu idea en realidad
           por medio de un equipo profesional en la industria tech.
         </p>
-        <button className={styles.item}>Trabajos</button>
+        <button className={styles.button}>Nuestros trabajos</button>
       </div>
       <div className={styles.item}>
         <Image src={Hero} alt="" className={styles.img} />
@@ -21,7 +21,8 @@ export default function Home() {
     </div>
   );
 
-  // 54:20 Next.js Image
+  // 1:00:01 Cambiar Button de {url} 
+  // seguimos en Page About Button url="contact"
 
 }
 
