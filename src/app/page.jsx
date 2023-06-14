@@ -22,8 +22,7 @@ export default function Home() {
     </div>
   );
 
-  // 1:00:01 Cambiar Button de {url} uwunt
-  // seguimos en Page About Button url="contact"
+  // 1:01:27 Seguimos en About
 }
 
 // Si uno quiere usar imagenes externas       <Image width={500} height={500} src="https://images.pexels.com/photos/12546141/pexels-photo-12546141.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" className={styles.img} />
