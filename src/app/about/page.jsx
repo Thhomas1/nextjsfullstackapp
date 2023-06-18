@@ -48,8 +48,11 @@ const About = () => {
             velit vitae, porro quo molestias assumenda cum ab nemo expedita
             accusamus
             <br />
-            <br /> - Websites dinamicas - Media queries Mobiles - Maestros del
-            Script
+            <br /> - Websites dinamicas
+            <br />
+            <br /> - Media queries Mobiles
+            <br />
+            <br /> - Maestros del Script
           </p>
           <Button url="/contact" text="Contact" />
         </div>
