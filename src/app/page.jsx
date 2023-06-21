@@ -22,7 +22,7 @@ export default function Home() {
     </div>
   );
 
-  // 1:17:29 Portfolio Page
+  // 1:19:22 Portfolio Page Category
   // No eres de fiaaaar si no haces algo mallll
 }
 
