@@ -22,7 +22,7 @@ export default function Home() {
     </div>
   );
 
-  // 1:30:03 NavBar Page
+  // 1:35:45 DarkMode Page
   // Blog todavia queda Css pero porque lo cambiamos despues
 }
 
