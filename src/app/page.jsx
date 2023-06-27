@@ -22,7 +22,7 @@ export default function Home() {
     </div>
   );
 
-  // 1:35:45 DarkMode Pagee
+  // 1:45:45 Fetch data on the client side
   // Blog todavia queda Css pero porque lo cambiamos despues
 }
 
