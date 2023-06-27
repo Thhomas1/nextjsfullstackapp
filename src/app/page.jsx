@@ -22,7 +22,10 @@ export default function Home() {
     </div>
   );
 
-  // 1:45:45 Fetch data on the client side
+  // 1:51:00 Fetch data from Local JSON file
+  // * Dashboard ya esta completo no hay nada que corregir
+  // * pero podemos ir eliminando cada tanto
+
   // Blog todavia queda Css pero porque lo cambiamos despues
 }
 
