@@ -22,7 +22,7 @@ export default function Home() {
     </div>
   );
 
-  // 1:51:00 Fetch data from Local JSON file
+  // 1:52:45 Fetch data from Local JSON file
   // * Dashboard ya esta completo no hay nada que corregir
   // * pero podemos ir eliminando cada tanto
 
