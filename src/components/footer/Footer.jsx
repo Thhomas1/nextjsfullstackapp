@@ -15,13 +15,6 @@ const Footer = () => {
           alt="Thomasfb"
         />
         <Image
-          src="/2.png"
-          width={15}
-          height={15}
-          className={styles.icon}
-          alt="Thomasig"
-        />
-        <Image
           src="/3.png"
           width={15}
           height={15}

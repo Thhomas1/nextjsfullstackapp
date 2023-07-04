@@ -16,16 +16,19 @@ const Contact = () => {
           />
         </div>
         <form className={styles.form}>
-          <input type="text" placeholder="name" className={styles.input} />
-          <input type="text" placeholder="email" className={styles.input} />
+          <input type="text" placeholder="Nombre" className={styles.input} />
+          <input type="text" placeholder="Email" className={styles.input} />
           <textarea
             className={styles.textArea}
-            placeholder="message"
+            placeholder="Mensaje"
             id=""
             cols="30"
             rows="10"
           ></textarea>
-          <Button url="#" text="Send" />
+          <Button
+            url="https://www.linkedin.com/in/thomas-romero-05a508245/"
+            text="Enviar"
+          />
         </form>
       </div>
     </div>

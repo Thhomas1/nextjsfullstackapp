@@ -15,4 +15,5 @@
 .icon{
     opacity: 0.6;
     cursor: pointer;
+    filter: invert(1) sepia(1) saturate(0%);
 }
